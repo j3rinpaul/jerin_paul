@@ -30,21 +30,21 @@ export default function AboutMe(props) {
             <div className="font-Header ">
               <span className="text-gray-400  tracking-wide">
                 Hello! My name is Jerin Paul and I enjoy solving problems and creating codes that live on the internet.
-                My interest in computer science started back in 2009 when I decided to try learning{" "}
-                <span className="text-AAsecondary">Ethical Hacking</span> using BackTrack OS — it turns out programming
+                My interest in computer science started back in 2019 when I decided to try learning{" "}
+                <span className="text-AAsecondary">Ethical Hacking</span> using Kali Linux OS — it turns out programming
                 skills are essential to achieve that, my journey with programming started from that time!
               </span>
             </div>
             <div className="font-Header tracking-wide">
               <span className="text-gray-400  ">
-                Fast-forward to today, I&apos;ve had the privilege of working at
-                <span className="text-AAsecondary"> a huge manufacturing company</span>,
-                <span className="text-AAsecondary"> a start-up</span>,{" "}
-                <span className="text-AAsecondary">export-import companies</span>, also 
-                <span className="text-AAsecondary"> freelancing</span> and recently as Lead for the{" "}
-                <span className="text-AAsecondary">Google Developer Student club</span>. Experienced in Desktop & Web
-                Development, lately with Arduino Development. My main focus these days is creating and testing{" "}
-                <span className="text-AAsecondary">Smart Contracts</span> with Hardhat.
+                Fast-forward to today, I&apos;ve had the privilege of learning 
+                <span className="text-AAsecondary"> Python</span>,
+                <span className="text-AAsecondary">  C</span>,{" "}
+                <span className="text-AAsecondary"> Javascript</span>, and 
+                <span className="text-AAsecondary"> Dart</span>. I was selected as Web Master for the{" "}
+                <span className="text-AAsecondary">IEEE CS KS</span>. Experienced in Android & IOS
+                Development, with Flutter. My main focus these days is training and creating{" "}
+                <span className="text-AAsecondary">ML Models</span> with Tensorflow & other ML based python libraries.
               </span>
             </div>
 

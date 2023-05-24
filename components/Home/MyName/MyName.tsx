@@ -55,10 +55,10 @@ export default function MyName(props: { finishedLoading: boolean }) {
           className="text-gray-400 font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider"
         >
           I&apos;m a <span className="text-AAsecondary">software engineer</span> skilled in problem-solving and specializing in building
-          <br className="md:block hidden" /> (and occasionally designing) exceptional digital experiences. Currently.{" "}
+          <br className="md:block hidden" /><span className="text-AAsecondary"> Web and Mobile Applications</span>. Currently, {" "}
           <br className="md:block hidden" />
-          I&apos;m focused on creating and deploying <span className="text-AAsecondary">Smart Contracts</span> on the
-          Blockchain.
+          I&apos;m focused on  <span className="text-AAsecondary">Data Science</span> and <span className="text-AAsecondary">Machine Learning.</span> 
+      
         </motion.h3>
         <motion.div
           initial={{ y: 10, opacity: 0 }}

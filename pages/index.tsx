@@ -58,7 +58,7 @@ export default function Home() {
   console.log("Portfolio Rendered...");
   const meta = {
     title: "Jerin Paul - Data Science  & Machine Learning Enthusiast",
-    description: `CUrrently a B-Tech Student at Government Engineering College Idukki, Kerala, India. I am a Data Science and Machine Learning Enthusiast.`,
+    description: `Currently a B-Tech Student at Government Engineering College Idukki, Kerala, India. I am a Data Science and Machine Learning Enthusiast.`,
     image: "/titofCercle.png",
     type: "website",
   };
