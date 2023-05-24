@@ -45,7 +45,7 @@ export default function DesktopMenu(props: { finishedLoading: boolean }) {
       >
         <ReactScrollLink to="WhereIhaveWorkedSection" spy={true} smooth={true} offset={-300} duration={200}>
           &gt; 02.{" "}
-          <span className="text-white  hover:cursor-pointer hover:text-AAsecondary duration-300">Experience</span>
+          <span className="text-white  hover:cursor-pointer hover:text-AAsecondary duration-300">Achievements</span>
         </ReactScrollLink>
       </motion.div>
       <motion.div
@@ -65,7 +65,7 @@ export default function DesktopMenu(props: { finishedLoading: boolean }) {
         className="text-AAsecondary"
       >
         <ReactScrollLink to="SomethingIveBuiltSection" spy={true} smooth={true} offset={-100} duration={200}>
-        &gt; 03. <span className="text-white  hover:cursor-pointer hover:text-AAsecondary duration-300">Work</span>
+        &gt; 03. <span className="text-white  hover:cursor-pointer hover:text-AAsecondary duration-300">Projects</span>
 
         </ReactScrollLink>
         

@@ -174,12 +174,13 @@ export default function SomethingIveBuilt() {
           absolute md:grid grid-cols-12 w-full h-full  content-center "
           >
             <div className="relative rounded w-full h-full col-start-6 col-span-7 ">
-              <Link href={"/userdatapuller"}>
+              {/* <Link href={"/userdatapuller"}> */}
+              {/*two links are there for redirecting it to another page so inorder to avoid such re routing we're commenting that links */}
                 <div
                   className="absolute w-full h-full rounded bg-AAsecondary 
            transition-opacity opacity-20 hover:opacity-0 hover:cursor-pointer duration-300"
                 ></div>
-              </Link>
+              {/* </Link> */}
               <Img src={"/hackme.jpg"} alt={"Project Screen shot"} className={`w-full rounded h-full `} />
             </div>
           </div>
@@ -201,11 +202,11 @@ export default function SomethingIveBuilt() {
             >
               <div className="flex flex-col space-y-1  z-10">
                 <span className="text-AAsecondary text-base">Recent Project</span>
-                <Link href={"/userdatapuller"}>
+                {/* <Link href={"/userdatapuller"}> */}
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     User Data puller
                   </span>
-                </Link>
+                {/* </Link> */}
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
