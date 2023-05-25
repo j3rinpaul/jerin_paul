@@ -5,17 +5,14 @@ import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
 export default function AdvancedAgroManagement() {
   const tasks = [
     {
-      text: "Developed and Build a new version customizable website for Advanced Agro Management.",
-      keywords: ["Advanced Agro Management"],
+      text: "As a technical based club we are required to conduct various technical events for students of GECI.",
+      keywords: ["Coordinated Various Events"],
     },
     {
-      text: "Monitored website performance and handled troubleshooting and WordPress issues.",
-      keywords: ["scripts"],
+      text: "A Hands on session of Git & Github was mentored and made sure that benefited them.",
+      keywords: ["Handled Git & Github session"],
     },
-    {
-      text: "Managed company WordPress website back-end with Oracle Database including plugins, tools, and themes.",
-      keywords: ["Oracle Database"],
-    },
+    
   ];
   return (
     <>
@@ -23,10 +20,10 @@ export default function AdvancedAgroManagement() {
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Software Developer <span className="text-AAsecondary">@ Wordpress</span>
+            ChairPerson <span className="text-AAsecondary">@ Technoship Cell GECI</span>
           </span>
           {/* Date */}
-          <span className="font-mono text-xs text-gray-500">june - August 2019</span>
+          <span className="font-mono text-xs text-gray-500">January - December 2023</span>
         </div>
         <div className="flex flex-col space-y-4 sm:text-sm text-xs">
           {/* Tasks Description 1 */}

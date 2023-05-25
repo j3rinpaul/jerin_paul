@@ -5,17 +5,14 @@ import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
 export default function SuperBerry() {
   const tasks = [
     {
-      text: "Designed and Built user-friendly customizable static web application using ReactJS, TailwindCSS v1, and TypeScript.",
-      keywords: ["ReactJS", "TailwindCSS v1", "TypeScript"],
+      text: "Elevar is a series of Technical task competition organised by IEEE CS KS in all Kerala State Level for IEEE CS members.",
+      keywords: ["Elevar"],
     },
     {
-      text: "upgraded the web application for better SEO with Next.js and exploiting the server-side rendering benefits.",
-      keywords: ["Next.js"],
+      text: "Secured first prize in Elevar web development competition",
+      keywords: ["React"],
     },
-    {
-      text: "Provided technical support and troubleshoots errors and/or problems with web based applications.",
-      keywords: [],
-    },
+   
   ];
 
   return (
@@ -24,10 +21,10 @@ export default function SuperBerry() {
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Software Engineer <span className="text-AAsecondary">@ Web App</span>
+            First prize <span className="text-AAsecondary">in Elevar 2.0 Web development competition</span>
           </span>
           {/* Date */}
-          <span className="font-mono text-xs text-gray-500">June - August 2020</span>
+          <span className="font-mono text-xs text-gray-500">Nov 2022</span>
         </div>
         <div className="flex flex-col space-y-4 sm:text-sm text-xs">
           {/* Tasks Description 1 */}

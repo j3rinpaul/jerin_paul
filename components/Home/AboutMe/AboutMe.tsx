@@ -41,7 +41,7 @@ export default function AboutMe(props) {
                 <span className="text-AAsecondary"> Python</span>,
                 <span className="text-AAsecondary">  C</span>,{" "}
                 <span className="text-AAsecondary"> Javascript</span>, and 
-                <span className="text-AAsecondary"> Dart</span>. I was selected as Web Master for the{" "}
+                <span className="text-AAsecondary"> Dart</span>. I was selected as<span className="text-AAsecondary">Web Master</span> for the{" "}
                 <span className="text-AAsecondary">IEEE CS KS</span>. Experienced in Android & IOS
                 Development, with Flutter. My main focus these days is training and creating{" "}
                 <span className="text-AAsecondary">ML Models</span> with Tensorflow & other ML based python libraries.

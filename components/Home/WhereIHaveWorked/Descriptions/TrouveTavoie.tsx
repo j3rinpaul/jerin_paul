@@ -5,17 +5,14 @@ import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
 export default function TrouveTavoie() {
   const tasks = [
     {
-      text: "Spearhead & implemented a new design user workflow system for the Frond-End Architecture of a NFT Marketplace.",
-      keywords: ["NFT Marketplace"],
+      text: "Build official website for slash-key 2.0 30 hour hackathon organised by IEEE CS Kerala Chapter which was co-powered by Intel One Api.",
+      keywords: ["Slash Key official Website"],
     },
     {
-      text: "Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Next.js/React, AWS and Vercel.",
-      keywords: ["Next.js/React", "AWS", "Vercel"],
+      text: "Maintained IEEE CS Kerala Chapter's official webiste.",
+      keywords: ["React", "Express js", "Node js"],
     },
-    {
-      text: "Interfaced with developers on a daily basis, providing technological expertise.",
-      keywords: [],
-    },
+    
   ];
 
   return (
@@ -24,10 +21,10 @@ export default function TrouveTavoie() {
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Software Engineer <span className="text-AAsecondary">@ Blockchain</span>
+            Web Masterr <span className="text-AAsecondary">@ IEEE CS Kerala Chapter</span>
           </span>
           {/* Date */}
-          <span className="font-mono text-xs text-gray-500">Mars - August 2022</span>
+          <span className="font-mono text-xs text-gray-500">January - December 2023</span>
         </div>
         <div className="flex flex-col space-y-4 sm:text-sm text-xs">
           {/* Tasks Description 1 */}

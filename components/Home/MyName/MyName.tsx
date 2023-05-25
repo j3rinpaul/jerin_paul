@@ -77,6 +77,14 @@ export default function MyName(props: { finishedLoading: boolean }) {
             Check out my resume!
           </button>
           </a>
+          {/* <a href={"/jerinpaul.pdf"} target={"_blank"} rel="noreferrer">
+
+          <button
+            className="bg-AAprimary text-AAsecondary border rounded  lg:ml-2 md:ml-2 px-4 sm:px-8 py-3 my-2 sm:py-4 border-AAsecondary "
+          >
+            Data Science resume!
+          </button>
+          </a> */}
         </motion.div>
       
     </div>

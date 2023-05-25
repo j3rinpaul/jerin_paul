@@ -5,16 +5,20 @@ import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
 export default function IdealFresh() {
   const tasks = [
     {
-      text: "Designed and Built a Desktop app for IdealFresh that manage billings, client circumstances using Apache POI with Microsoft Office Excel.",
-      keywords: ["Apache POI"],
+      text: "An initative by IIT Madras incubation cell and IIT Mandi to find young minds having bright ideas.",
+      keywords: ["IITM"],
     },
     {
-      text: "Creating customized scripts for pulling, managing and refactoring files from Clouds.",
-      keywords: ["scripts"],
+      text: "Participated in the 6 months curriculum where we are given knowledge about new technologies.",
+      keywords: ["Knowledge about new tech by IITM"],
     },
     {
-      text: "Daily communications and interactions with a non-developers to solve their problems by providing technological solutions and expertise.",
-      keywords: ["non-developers"],
+      text: "Build products based on our idea and the technology.",
+      keywords: ["Build products based on our idea"],
+    },
+    {
+      text: "Automatic Headlight dimmer.",
+      keywords: ["Product"],
     },
   ];
   return (
@@ -23,10 +27,10 @@ export default function IdealFresh() {
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Software Developer <span className="text-AAsecondary">@ JavaFX</span>
+            Learn Engineering Through Activity Program<span className="text-AAsecondary"> by IITM</span>
           </span>
           {/* Date */}
-          <span className="font-mono text-xs text-gray-500">June - August 2021</span>
+          <span className="font-mono text-xs text-gray-500">May - December 2022</span>
         </div>
         <div className="flex flex-col space-y-4 sm:text-sm text-xs">
             {/* Tasks Description 1 */}
