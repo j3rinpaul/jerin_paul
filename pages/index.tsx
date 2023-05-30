@@ -68,16 +68,19 @@ export default function Home() {
       <Head>
         <title>{meta.title}</title>
         <meta name="robots" content="follow, index" />
+        <meta name="author" content={"Jerin Paul"}/>
+        <meta name="keywords" content="Jerin Paul, Government Engineering College Idukki, Portfolio, Frontend, Data Scientist, Data Science Kerala, .tech domain, B-Tech Student, jerinpaul.tech, IEEE CS Kerala Section Web master, Elevor task winner, GECI, GEC Idukki, Machine Learning Engineer, Data Analyst"/>
         <meta content={meta.description} name="description" />
         <meta property="og:url" content={`https://jerinpaul.tech`} />
         <link rel="canonical" href={`https://jerinpaul.tech`} />
         <meta property="og:type" content={meta.type} />
-        <meta property="og:site_name" content="Manu Arora" />
+        <meta property="og:site_name" content="Jerin Paul" />
         <meta property="og:description" content={meta.description} />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@jerry" />
+        <meta name="instagram:site" content="@j3rinpaul" />
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
