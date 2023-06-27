@@ -1,4 +1,3 @@
-import React from "react";
 import ArrowIcon from "../../../Icons/ArrowIcon";
 import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
 
@@ -21,7 +20,7 @@ export default function TrouveTavoie() {
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Web Masterr <span className="text-AAsecondary">@ IEEE CS Kerala Chapter</span>
+            Web Master <span className="text-AAsecondary">@ IEEE CS Kerala Chapter</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">January - December 2023</span>
