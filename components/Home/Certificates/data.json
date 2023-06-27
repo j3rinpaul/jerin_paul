@@ -29,6 +29,14 @@
         "technologies": ["Python", "Problem Solving", "Syntax", "Data Structure"],
 
         "externalLink": "https://www.hackerrank.com/certificates/131cece338ad"
+      },
+       {
+        "title": "Aswamedham 2021 CTF WINNER",
+        "imageSrc": "/ctf.png",
+        "description": "G-Tech μ-Learn recently hosted an extensive cybersecurity talent hunt in Kerala called the Aswamedham All Kerala CTF. The competition spanned 24 hours, and our college team enthusiastically participated, ultimately securing the first prize. Working collaboratively, we efficiently tackled the challenges and emerged victorious as a cohesive unit.",
+        "technologies": ["Python", "Problem Solving", "Syntax", "Data Structure"],
+
+        "externalLink": "https://www.hackerrank.com/certificates/131cece338ad"
       }
      
     ]
