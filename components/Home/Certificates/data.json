@@ -1,0 +1,36 @@
+{
+    "data1": [
+      {
+        "title": "LEAP - Project Completion Certificate",
+        "imageSrc": "/leap.jpg",
+        "description": "Slash_key is a 30 hour hackathon organised by IEEE CS KS. Official website for the hackathon was designed using HTML, CSS, JS and other frontend libraries such as bootstrap and deployed.",
+        "technologies": ["OpenCV","Raspberry Pi"],
+        "externalLink": "https://github.com/j3rinpaul/leap"
+      },
+    
+      {
+        "title": "Kaggle's into to ML",
+        "imageSrc": "/pandas.png",
+        "description": "Kaggle's Intro to Machine Learning is a beginner-friendly online course that provides a comprehensive introduction to machine learning. You'll learn essential concepts and techniques, including data preprocessing, model training, and evaluation. With hands-on exercises and real-world datasets, this course equips you with practical skills for pursuing opportunities in data science and Kaggle competitions.",
+        "technologies": ["Machine Learning", "Data Science", "Python",  "Scikit-learn"],
+        "externalLink": "https://www.kaggle.com/learn/certification/j3rinpaul/intro-to-machine-learning"
+      },
+      {
+        "title": "Kaggle's Pandas Course",
+        "imageSrc": "/ml.png",
+        "description": "Kaggle's Pandas Course is a practical online tutorial that teaches data manipulation and analysis using Python's Pandas library. With interactive exercises and real-world datasets, you'll learn essential techniques like data cleaning and transformation. Gain valuable skills in handling tabular data and extracting insights for effective data analysis.",
+        "technologies": [ "Data Science", "Python", "Pandas", "Scikit-learn"],
+        "externalLink": "https://www.kaggle.com/learn/certification/j3rinpaul/pandas"
+      },
+       {
+        "title": "Hackerrank Python Certification",
+        "imageSrc": "/img19.jpg",
+        "description": "HackerRank's Python Certification is my pathway to showcasing my expertise in Python programming. It provides a platform to validate my skills in Python syntax, data structures, algorithms, and problem-solving. By conquering coding challenges and assessments, I can prove my proficiency and establish myself as a competent Python developer. It's an opportunity for me to enhance my credibility and stand out in the competitive programming landscape.",
+        "technologies": ["Python", "Problem Solving", "Syntax", "Data Structure"],
+
+        "externalLink": "https://www.hackerrank.com/certificates/131cece338ad"
+      }
+     
+    ]
+  }
+  

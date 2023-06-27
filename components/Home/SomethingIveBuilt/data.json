@@ -1,0 +1,37 @@
+{
+    "data1": [
+      {
+        "title": "Slash_key 2.O Offical Website",
+        "imageSrc": "/img/YPredict-v1.jpg",
+        "description": "Slash_key is a 30 hour hackathon organised by IEEE CS KS. Official website for the hackathon was designed using HTML, CSS, JS and other frontend libraries such as bootstrap and was deployed. This website helped to gain reach and publicity for the hackathon thereby increased the participation",
+        "technologies": ["Html", "Css", "js", "Bootstrap"],
+        "githubLink": "https://github.com/j3rinpaul/",
+        "externalLink": "https://slashkey.cs.ieeekerala.org"
+      },
+      {
+        "title": "Mess Management Mobile App",
+        "imageSrc": "/CallCenter.png",
+        "description": "A cutting-edge mess management application built with Flutter and Supabase. This powerful app allows users to conveniently mark their food requirements at specific times, while wardens and mess managers can effortlessly track the daily food count through the app. By implementing messLab, the efficiency of mess management in staff hostels has significantly improved.",
+        "technologies": ["Supabase","Flutter","Dart","Android"],
+        "githubLink": "https://github.com/j3rinpaul/MiniProject",
+        "externalLink": "#"
+      },
+      {
+        "title": "Headlight Dimmer for Vehicles (LEAP)",
+        "imageSrc": "/hackme.jpg",
+        "description": "Developed an Automatic Headlight Dimmer using Python and OpenCV. The project involved detecting vehicles at night and seamlessly switching our vehicle's bright lights to dim, ensuring safer driving conditions. #LEAPInitiative #IITM #Python #OpenCV #ComputerVision #AutomaticHeadlightDimmer #RoadSafety #MachineLearning",
+        "technologies": ["OpenCV","Python","Machine Learning"],
+        "githubLink": "https://github.com/j3rinpaul/leap",
+        "externalLink": "/userdatapuller"
+      },
+      {
+        "title": "Phising Website Detection",
+        "imageSrc": "/progress.jpg",
+        "description": "Developed a phishing website detection project using machine learning and data science techniques. By leveraging advanced algorithms and analyzing various features, I created a robust model capable of accurately identifying and flagging suspicious websites. This project demonstrates my expertise in applying ML and data science to enhance cybersecurity measures.",
+        "technologies": ["Pandas","Python","Machine Learning","Phising Website"],
+        "githubLink": "https://github.com/j3rinpaul/leap",
+        "externalLink": "/userdatapuller"
+      }
+    ]
+  }
+  

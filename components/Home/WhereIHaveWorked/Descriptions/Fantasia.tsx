@@ -5,11 +5,11 @@ import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
 export default function Fantasia() {
   const tasks = [
     {
-      text: "Hackerrank Python 5 star rated.",
-      keywords: ["hackerrank"],
+      text: "Organised various events & made the oppurtunities availed from the foundation to the College Chapter.",
+      keywords: ["vicelead"],
     },
     {
-      text: "Basic problem solving skill in python.Attented a coding exam and successfully completed.",
+      text: "Coordinated the student activities and be a part of the tech activities that take place in the college.",
       keywords: ["Skill set"],
     },
    
@@ -19,7 +19,7 @@ export default function Fantasia() {
       <div className="flex flex-col spacey-y-2">
         {/* Title */}
         <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-          Hackerrank Certification <span className="text-AAsecondary">on Python</span>
+          Vice Lead <span className="text-AAsecondary">@ TinkerHub GECI</span>
         </span>
         {/* Date */}
         {/* <span className="font-mono text-xs text-gray-500">June - July 2018</span> */}

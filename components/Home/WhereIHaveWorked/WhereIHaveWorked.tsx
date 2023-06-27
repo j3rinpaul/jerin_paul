@@ -2,13 +2,14 @@ import React from "react";
 import { motion } from "../../../node_modules/framer-motion/dist/framer-motion";
 import ArrowIcon from "../../Icons/ArrowIcon";
 import TrouveTavoie from "./Descriptions/TrouveTavoie";
-import FeverTokens from "./Descriptions/FeverTokens";
+// import FeverTokens from "./Descriptions/FeverTokens";
 import IdealFresh from "./Descriptions/IdealFresh";
 import AdvancedAgroManagement from "./Descriptions/AdvancedAgroManagement";
 import Fantasia from "./Descriptions/Fantasia";
 import SuperBerry from "./Descriptions/SuperBerry";
 export default function WhereIHaveWorked() {
   const barRef = React.useRef<HTMLDivElement>(null);
+  const [DescriptionJob, setDescriptionJob] = React.useState("Webmaster");
   // ? INFORMATIONAL control the green position using px,
   // ? INFORMATIONAL the default value of barRef's class should be at the beginning translate-y-[0px]
   const GetDescription = () => {
@@ -26,7 +27,10 @@ export default function WhereIHaveWorked() {
         return <SuperBerry />;
     }
   };
-  const [DescriptionJob, setDescriptionJob] = React.useState("TrouveTavoie");
+  
+
+  
+  // const [DescriptionJob, setDescriptionJob] = React.useState("TrouveTavoie");
   return (
     <div data-aos="fade-up" className="flex flex-col items-center justify-center py-24 space-y-12 bg-AAprimary">
       {/* // ? Title "Where I've Worked" */}
@@ -162,7 +166,7 @@ const CompaniesBar = props => {
           /> */}
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={5}
-            CompanyName="Hackerrank Python Certification"
+            CompanyName="TinkerHub GECI"
             BarPosition={pos+(anpos*4)}
             BarAvobePosition={513}
             DescriptionJob="Python"
